@@ -15,4 +15,4 @@ Repository contains 2 versions of the project
 1. TSA 1 - Basic Sentiment Analysis by fetching from Twitter using Tweepy
 
 2. TSA 2 - Labelled Data Sentiment Analysis using dataset of 1.6 million tweets from Sentiment140 dataset on Kaggle.
-![Sentiment 140 Dataset](https://www.kaggle.com/kazanova/sentiment140)
+(https://www.kaggle.com/kazanova/sentiment140)
